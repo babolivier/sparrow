@@ -5,7 +5,7 @@ as its back-end. This means that, as long as you have a homeserver set up somewh
 hosting Sparrow will only consist in serving its front-end content and pointing it
 to the said homeserver.
 
-N.B.: Although this is technically possible, it is highly not recommended to point
+N.B.: Although this is technically possible, it is highly recommended not to point
 Sparrow to the matrix.org homeserver, as the computation of the list of topic
 will be made really slow because of the number of public rooms on this server
 and the current performances of the Matrix public rooms directory computation in
