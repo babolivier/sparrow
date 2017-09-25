@@ -14,7 +14,7 @@ and the current performances of the Matrix public rooms directory computation in
 ## Development status
 
 This project is still under heavy development, and might change in a drastic way
-without any warning.
+without any warning. It is far from being ready for production.
 
 ## Contribute
 
