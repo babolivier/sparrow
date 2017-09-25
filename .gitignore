@@ -1,0 +1,8 @@
+# tmp files
+.*.swp
+
+# test files or folders
+test*
+
+# config/sensible files
+config.json
