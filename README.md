@@ -20,7 +20,12 @@ without any warning. It is far from being ready for production.
 
 ## Build
 
-Coming soon (even though I hate READMEs saying that)...
+```bash
+git clone https://github.com/babolivier/sparrow
+cd sparrow
+npm install
+npm run build
+```
 
 ## Contribute
 
