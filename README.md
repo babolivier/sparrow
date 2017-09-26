@@ -18,6 +18,10 @@ and the current performances of the Matrix public rooms directory computation in
 This project is still under heavy development, and might change in a drastic way
 without any warning. It is far from being ready for production.
 
+## Build
+
+Coming soon (even though I hate READMEs saying that)...
+
 ## Contribute
 
 Coming soon (even though I hate READMEs saying that)...
