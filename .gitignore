@@ -1,6 +1,9 @@
 # npm modules
 node_modules
 
+# built files
+dist
+
 # tmp files
 .*.swp
 
