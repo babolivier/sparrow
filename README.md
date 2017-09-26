@@ -1,5 +1,7 @@
 # Sparrow
 
+[![Build Status](https://jenkins.brendanabolivier.com/buildStatus/icon?job=Sparrow)](https://jenkins.brendanabolivier.com/job/Sparrow/)
+
 Sparrow is a front-end forum software using a [Matrix](https://matrix.org) homeserver
 as its back-end. This means that, as long as you have a homeserver set up somewhere,
 hosting Sparrow will only consist in serving its front-end content and pointing it
@@ -15,6 +17,15 @@ and the current performances of the Matrix public rooms directory computation in
 
 This project is still under heavy development, and might change in a drastic way
 without any warning. It is far from being ready for production.
+
+## Build
+
+```bash
+git clone https://github.com/babolivier/sparrow
+cd sparrow
+npm install
+npm run build
+```
 
 ## Contribute
 
